@@ -1,0 +1,23 @@
+body {
+	background-color: #FFF;
+}
+
+header {
+	background-color: #0097D7;
+} 
+
+#main-nav-bar {
+	padding-left : 10px;
+}
+
+header a {
+	color:#FFF;
+}
+
+nav #main-nav-bar li#link-to-cart a {
+	color: #FFF;
+}
+
+nav#taxonomies a {
+	
+}
